@@ -7,6 +7,6 @@ public class returnBtn : MonoBehaviour
 {
     public void returnMain()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("outpost with snow");
     }
 }

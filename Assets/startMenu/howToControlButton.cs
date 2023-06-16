@@ -7,6 +7,6 @@ public class howToControlButton : MonoBehaviour
 {
     public void next()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene("explainScreen");
     }
 }

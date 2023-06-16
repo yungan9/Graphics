@@ -8,6 +8,6 @@ public class startButtonClick : MonoBehaviour
     // Start is called before the first frame update
     public void next()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("outpost with snow");
     }
 }
